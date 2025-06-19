@@ -1,0 +1,7 @@
+# TikTok ad and tracking domains
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 pixel.tiktokv.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com

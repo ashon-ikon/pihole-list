@@ -1,0 +1,4 @@
+# Adult content domains
+# Add adult site domains here following the same format
+# 0.0.0.0 example-adult-site.com
+# 0.0.0.0 www.example-adult-site.com

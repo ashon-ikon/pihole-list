@@ -1,0 +1,7 @@
+# Instagram ad and tracking domains
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 business.instagram.com

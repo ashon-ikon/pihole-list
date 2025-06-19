@@ -1,0 +1,27 @@
+# YouTube ad and tracking domains
+# youtube_com domains blocklist
+# Compatible with PiHole - hosts(5) canonical format
+
+0.0.0.0 about.youtube
+0.0.0.0 ads.youtube.com
+0.0.0.0 artists.youtube
+0.0.0.0 blog.youtube
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 servicesdirectory.withyoutube.com
+0.0.0.0 www.about.youtube
+0.0.0.0 www.artists.youtube
+0.0.0.0 www.blog.youtube
+0.0.0.0 www.googlesyndication.com
+0.0.0.0 www.lh3.googleusercontent.com
+0.0.0.0 www.servicesdirectory.withyoutube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 www.youtubekids.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 www.yt.be
+0.0.0.0 youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtubekids.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 yt.be
