@@ -9,6 +9,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googlesyndication.com
 0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 m.youtube.com
 0.0.0.0 servicesdirectory.withyoutube.com
 0.0.0.0 www.about.youtube
 0.0.0.0 www.artists.youtube
