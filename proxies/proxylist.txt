@@ -1,0 +1,23 @@
+# Proxy lists that fraustrate effecting site blocking
+0.0.0.0 youtubeunblocked.live
+0.0.0.0 unblockyoutube.co
+0.0.0.0 unblockyoutube.video
+0.0.0.0 croxyproxy.com
+0.0.0.0 croxyproxy.net
+0.0.0.0 daddyproxy.com
+0.0.0.0 proxysite.com
+0.0.0.0 blockaway.net
+0.0.0.0 vpnproxy.site
+0.0.0.0 proxy-youtube.com
+0.0.0.0 4everproxy.com
+0.0.0.0 proxyium.com
+0.0.0.0 genmirror.com
+0.0.0.0 extremevpn.com
+0.0.0.0 proxify.com
+0.0.0.0 myiphide.com
+0.0.0.0 protonvpn.com
+0.0.0.0 4everproxy.com
+0.0.0.0 proxyorb.com
+0.0.0.0 plainproxies.com
+0.0.0.0 vpnbook.com
+0.0.0.0 steganos.com
