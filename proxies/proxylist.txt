@@ -39,6 +39,9 @@
 0.0.0.0 www.proxyorb.com
 0.0.0.0 plainproxies.com
 0.0.0.0 www.plainproxies.com
+0.0.0.0 proxfree.com
+0.0.0.0 www.proxfree.com
+0.0.0.0 www.plainproxies.com
 0.0.0.0 vpnbook.com
 0.0.0.0 www.vpnbook.com
 0.0.0.0 steganos.com
